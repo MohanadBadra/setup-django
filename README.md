@@ -1,5 +1,6 @@
 # setup-django
 Easy simple python script to start the django enviroment by one command fastly.
+
 Usage: python setup-django [enviroment name] [project name]
 setup-django is simple Python script automating the setup up of the Django Enviroment easy by one command,
 seting up stepes:
