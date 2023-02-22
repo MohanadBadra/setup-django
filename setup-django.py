@@ -31,7 +31,7 @@ except:
     virtenv_name = "virtenv"
     
 try:
-    project_name = sys.argv[1]
+    project_name = sys.argv[2]
 except:
     project_name = "my_project"
 
